@@ -1,4 +1,6 @@
-# Mightys-Webhook-Spammer
+# Mightys-Webspam
+
+Discord Webhook Spammer
 
 How to use:
 1. Install Python https://www.python.org/downloads/
